@@ -15,8 +15,8 @@ This project documents the process of remodeling my kitchen—cabinet installs, 
 ---
 
 ### 🔧 Step 1: Planning & Demo
-- Removed 12 feet of old cabinets  
-- Prepped for 20 feet of new floor cabinets  
+- Removed 21 feet of old cabinets  
+- Prepped for 29 feet of new floor cabinets  
 - Moved sink plumbing across the room  
 - Installed new sink and dishwasher  
 
