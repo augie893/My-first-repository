@@ -51,3 +51,7 @@ This project documents the process of remodeling my kitchen—cabinet installs, 
 ### ✅ Status
 **Step 1 complete.**  
 Next up: lighting and backsplash.
+![My Project Banner](https://via.placeholder.com/1000x250/2f3136/ffffff?text=Augie%27s+Kitchen+Remodel)
+![GitHub last commit](https://img.shields.io/github/last-commit/augie893/my-first-repository)
+![Repo size](https://img.shields.io/github/repo-size/augie893/my-first-repository)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)
