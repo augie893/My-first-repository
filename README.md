@@ -45,9 +45,13 @@ This project documents the process of remodeling my kitchen—cabinet installs, 
 - GitHub isn’t just for code—it’s perfect for tracking home projects.  
 - Commit messages are your digital diary.  
 - Patience (and a level) are mandatory.
-
+![Demo Stage](images/IMG_1921.jpeg)
 ---
-
+# 🧰 Augie’s Project Portfolio
+## Featured Projects
+- [Kitchen Remodel](https://github.com/yourusername/Kitchen-Remodel)
+- [Office Renovation](https://github.com/yourusername/Office-Renovation)
+- [Retail Counter Buildout](https://github.com/yourusername/Retail-Counter)
 ### ✅ Status
 **Step 1 complete.**  
 Next up: lighting and backsplash.
