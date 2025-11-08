@@ -1,4 +1,4 @@
-# My-first-
+Red- black and https://pastatic.picsart.com/81235935799535220126.png?type=webp&to=min&r=400&q=95
 ## 👋 About Me
 Hey there — I’m Augie. I like building things that actually *work* (preferably better than they did before).  
 Right now, I’m learning GitHub to document real projects — not just code, but hands-on work like remodels, repairs, and creative builds.  
